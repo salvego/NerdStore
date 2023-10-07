@@ -1,5 +1,5 @@
 # NerdStore
-NerdStore - Ecommerce Simples
+NerdStore - E-commerce Simples
 
 .NetCore 2.2 em MVC
 Aplicando DDD - CQRS - Event Store
