@@ -1,7 +1,7 @@
 # NerdStore
 NerdStore - Ecommerce Simples
 
-.NetCore 2.2
+.NetCore 2.2 em MVC
 Aplicando DDD - CQRS - Event Store
 
 Package: EventStore.Client
