@@ -1,0 +1,5 @@
+C:\dev\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.csproj.AssemblyReference.cache
+C:\dev\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.AssemblyInfoInputs.cache
+C:\dev\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.AssemblyInfo.cs
+C:\dev\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.Tests.csproj.CoreCompileInputs.cache

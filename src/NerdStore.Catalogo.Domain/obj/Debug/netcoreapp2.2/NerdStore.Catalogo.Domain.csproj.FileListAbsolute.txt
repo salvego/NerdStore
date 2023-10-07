@@ -1,0 +1,16 @@
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.deps.json
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.runtimeconfig.json
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.runtimeconfig.dev.json
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\dev\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.genruntimeconfig.cache
